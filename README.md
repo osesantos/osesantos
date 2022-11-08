@@ -29,4 +29,4 @@ My name is José and I'm a SW Engineer by day and a bug bounty hunter by night
 - 😄 I’m happy to participate on any CTF challenge.
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osesantos&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osesantos&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)

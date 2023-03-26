@@ -24,7 +24,7 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Println(" --->  Hello World! :D  <---")
+    fmt.Println("--->  Hello World! :D  <---")
 }
 ```
 

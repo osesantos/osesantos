@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```rust
-fn main() {
-    println!(" --->  Hello World! :D  <--- ");
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println(" --->  Hello World! :D  <---")
 }
 ```
 

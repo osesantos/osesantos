@@ -30,7 +30,7 @@ func main() {
 
 I'm a SW Engineer by day and a bug bounty hunter by night
 - 🔭 I’m currently working on SW development.
-- 🌱 I’m currently learning Cybersecurity and aspiring to one day become a Security Engineer.
+- 🌱 I’m currently learning rust.
 - 👯 I’m looking to collaborate on Infosec projects/tools, go, rust and linux projects.
 - 📫 Feel free to reach me if you need colaboration on bug bounty programs.
 - 😄 I’m happy to participate on any CTF challenge.

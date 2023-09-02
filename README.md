@@ -33,12 +33,12 @@ func main() {
 I'm a SW Engineer by day and a bug bounty hunter by night. 
 Motivated to identify vulnerabilities, develop robust solutions, and collaborate with cross-functional teams.
 
-🔭 I’m currently working as a full-stack engineer with Typescript, Javascript, React, and C#.
-🌱 I’m on a journey to obtain the [Security+](https://www.comptia.org/certifications/security) certification.
-👯 I’m looking to collaborate on Infosec projects/tools, go, rust, and Linux projects.
-📫 Feel free to reach out.
-😄 I’m happy to learn and discuss any tech and cybersecurity-related topic.
-⚡ Fun fact: When I'm not coding or hunting bugs, you'll find me hiking and kitesurfing – I love embracing the great outdoors! ⛰🏄‍.
+- 🔭 I’m currently working as a full-stack engineer with Typescript, Javascript, React, and C#.
+- 🌱 I’m on a journey to obtain the [Security+](https://www.comptia.org/certifications/security) certification.
+- 👯 I’m looking to collaborate on Infosec projects/tools, go, rust, and Linux projects.
+- 📫 Feel free to reach out.
+- 😄 I’m happy to learn and discuss any tech and cybersecurity-related topic.
+- ⚡ Fun fact: When I'm not coding or hunting bugs, you'll find me hiking and kitesurfing – I love embracing the great outdoors! ⛰🏄‍.
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osesantos&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

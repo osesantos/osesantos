@@ -1,7 +1,6 @@
 ![589407](https://user-images.githubusercontent.com/20876378/200520670-d5d75540-04d4-4ae3-a66f-c6d4f017275a.jpeg)
 
-
-## Hi there, I’m José 👋😄
+# Hi there 👋 I'm José
 
 <!--
 **osesantos/osesantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,21 +23,22 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Println("--->  Hello World! :D  <---")
+    fmt.Println("--->  Hello World! I'm José :D  <---")
 }
 ```
 
-"Find something you love to do and you’ll never have to work a day in your life." - Arthur Szathmary
- 
-I'm a SW Engineer by day and a bug bounty hunter by night. 
-Motivated to identify vulnerabilities, develop robust solutions, and collaborate with cross-functional teams.
+**"Simplicity is the ultimate sophistication in both architecture and code."**
 
-- 🔭 I’m currently working as a full-stack engineer with C#, Typescript, Javascript, and React.
-- 🌱 I’m on a journey to learn Rust.
-- 👯 I’m looking to collaborate on projects/tools in go, rust, and Linux-related projects.
-- 📫 Feel free to reach out.
-- 😄 I’m happy to learn and discuss any tech and cybersecurity-related topic.
-- ⚡ Fun fact: When I'm not coding or hunting for bugs, you'll find me hiking and kitesurfing – I love embracing the great outdoors! ⛰🏄‍.
+I'm a Backend & Cloud Engineer with a strong security background. Passionate about building scalable systems and crafting elegant solutions to complex problems.
+
+- 🚀 Currently working as a Backend Engineer, specializing in C#, Go, TypeScript, and JavaScript
+- ☁️ Focused on cloud architecture and distributed systems
+- 🛠️ Core tech stack: C#, Go, Rust
+- 🌱 Deep diving into cloud-native technologies and microservices architecture
+- 👯 Looking to collaborate on cloud infrastructure, backend systems, and performance optimization projects
+- 💡 Always eager to explore new backend technologies and architectural patterns
+- 📫 Open to discussing tech opportunities and collaborations
+- ⚡ When I'm not architecting systems, you'll find me hiking and kitesurfing – because both code and nature have their perfect patterns! ⛰🏄‍
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osesantos&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

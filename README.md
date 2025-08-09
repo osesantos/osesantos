@@ -1,6 +1,6 @@
 ![589407](https://user-images.githubusercontent.com/20876378/200520670-d5d75540-04d4-4ae3-a66f-c6d4f017275a.jpeg)
 
-# Hi there 👋 I'm José
+# Hi there 👋 I'm ose
 
 <!--
 **osesantos/osesantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,7 @@ func main() {
 
 **"Simplicity is the ultimate sophistication in both architecture and code."**
 
-I'm a Backend & Cloud Engineer with a strong security background, passionate about building scalable systems, cloud-native architectures, and performance-tuned solutions.
+I'm a backend and cloud engineer with a strong security background, passionate about building scalable systems, cloud-native architectures, and performance-tuned solutions.
 
 ## 🚀 About Me
 - 💻 Currently working as a Backend Engineer, specializing in C#, Go, Python, and Rust

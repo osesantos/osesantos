@@ -40,7 +40,7 @@ I'm a backend and cloud engineer with a strong security background, passionate a
 - 🌱 Always exploring backend technologies, security tooling, and emerging cloud patterns
 
 ## 🏆 Current Focus
-- Finishing Pentest Professional Path on HTB Academy
+- Finishing Pentest Professional Path and Security+
 - Building GoMind – an AI-powered MCP server for private RAG over Obsidian notes
 - Writing security & performance articles and HTB box write-ups on GitHub
 

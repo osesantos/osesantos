@@ -29,16 +29,25 @@ func main() {
 
 **"Simplicity is the ultimate sophistication in both architecture and code."**
 
-I'm a Backend & Cloud Engineer with a strong security background. Passionate about building scalable systems and crafting elegant solutions to complex problems.
+I'm a Backend & Cloud Engineer with a strong security background, passionate about building scalable systems, cloud-native architectures, and performance-tuned solutions.
 
-- 🚀 Currently working as a Backend Engineer, specializing in C#, Go, TypeScript, and JavaScript
-- ☁️ Focused on cloud architecture and distributed systems
-- 🛠️ Core tech stack: C#, Go, Rust
-- 🌱 Deep diving into cloud-native technologies and microservices architecture
-- 👯 Looking to collaborate on cloud infrastructure, backend systems, and performance optimization projects
-- 💡 Always eager to explore new backend technologies and architectural patterns
-- 📫 Open to discussing tech opportunities and collaborations
-- ⚡ When I'm not architecting systems, you'll find me hiking and kitesurfing – because both code and nature have their perfect patterns! ⛰🏄‍
+## 🚀 About Me
+- 💻 Currently working as a Backend Engineer, specializing in C#, Go, Python, and Rust
+- ☁️ Focused on Cloud Architecture, Kubernetes, Security, and Distributed Systems
+- 🛠️ Core tech stack: C#, Go, Python
+- 🔐 Active in Pentesting and Offensive Security labs (HTB Academy & Pro Labs)
+- 📈 Obsessed with performance optimization and clean architectural design
+- 🌱 Always exploring backend technologies, security tooling, and emerging cloud patterns
+
+## 🏆 Current Focus
+- Finishing Pentest Professional Path on HTB Academy
+- Building GoMind – an AI-powered MCP server for private RAG over Obsidian notes
+- Writing security & performance articles and HTB box write-ups on GitHub
+
+## 📫 Connect
+📧 Available for tech collaborations and security consulting
+
+"Code like an engineer. Think like an attacker. Build like an architect."
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osesantos&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

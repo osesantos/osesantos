@@ -27,27 +27,31 @@ func main() {
 }
 ```
 
-**"Simplicity is the ultimate sophistication in both architecture and code."**
+**"Simplicity is the ultimate sophistication — in architecture, code, and systems."**
 
-I'm a backend and cloud engineer with a strong security background, passionate about building scalable systems, cloud-native architectures, and performance-tuned solutions.
+I’m a Backend & Cloud Engineer with a strong security background, building at the intersection of **Cloud, Distributed Systems, and AI Infrastructure**.  
+Passionate about **Kubernetes, high-performance architectures, and private AI workflows** — always aiming for clean, scalable, and secure solutions.
 
 ## 🚀 About Me
-- 💻 Currently working as a Backend Engineer, specializing in C#, Go, Python, and Rust
-- ☁️ Focused on Cloud Architecture, Kubernetes, Security, and Distributed Systems
-- 🛠️ Core tech stack: C#, Go, Python
-- 🔐 Active in Pentesting and Offensive Security labs (HTB Academy & Pro Labs)
-- 📈 Obsessed with performance optimization and clean architectural design
-- 🌱 Always exploring backend technologies, security tooling, and emerging cloud patterns
+- 💻 Daily stack: **C#**, **Go**, **Python**, Kubernetes, and Cloud-native tooling  
+- ☁️ Focused on **Cloud Architecture, AI Infrastructure, Messaging Systems, and Security**  
+- 🔐 Experienced in Pentesting, Red Teaming, and Security Labs (HTB Academy & Pro Labs)  
+- 📈 Obsessed with **performance tuning**, **system design**, and **elegant abstractions**  
+- 🌱 Continuously exploring **backend engineering, AI orchestration, and cloud patterns**
 
 ## 🏆 Current Focus
-- Finishing Pentest Professional Path and Security+
-- Building GoMind – an AI-powered MCP server for private RAG over Obsidian notes
-- Writing security & performance articles and HTB box write-ups on GitHub
+- 📚 Preparing for **CKAD** and **CKA** certifications  
+- ⚡ Evolving **GoMind** → an AI-powered MCP server for **private RAG over Obsidian notes**  
+- 🔄 Creating **Flux** → an AI orchestrator and classifier for unified AI gateway  
+- 🐍 Expanding expertise in **Python** for AI infra and backend projects  
+- ✍️ Writing about **performance, cloud, and security** on GitHub & personal site  
 
 ## 📫 Connect
-📧 Available for tech collaborations and security consulting
+📧 Open for **technical collaborations**, **cloud engineering projects**, and **security consulting**
 
-"Code like an engineer. Think like an attacker. Build like an architect."
+---
+
+*"Code like an engineer. Think like an attacker. Build like an architect."*
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osesantos&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

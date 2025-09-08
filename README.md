@@ -1,4 +1,4 @@
-![589407](https://user-images.githubusercontent.com/20876378/200520670-d5d75540-04d4-4ae3-a66f-c6d4f017275a.jpeg)
+<img width="1536" height="1024" alt="profile_banner" src="https://github.com/user-attachments/assets/18db921a-577c-416d-907e-ea1bf1549b46" />
 
 # Hi there 👋 I'm José (ose)
 
